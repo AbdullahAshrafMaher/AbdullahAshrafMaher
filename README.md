@@ -23,7 +23,6 @@
 - **Backend Development**: Django, Flask, FastAPI, and RESTful APIs.
 
 ### 📫 How to reach me:
-- **Email**: [abdullah.maher.egy@gmail.com](mailto:abdullah.maher.egy@gmail.com)
 - **LinkedIn**: [linkedin.com/in/abdullah-maher-ai](https://www.linkedin.com/in/abdullah-maher-ai/)
 - **GitHub**: [github.com/AbdullahAshrafMaher](https://github.com/AbdullahAshrafMaher)
 - **Portfolio**: [abdallahashraf.dev](https://abdallahashraf.dev) *(Coming Soon)*
