@@ -48,8 +48,6 @@
 I love solving complex problems and often participate in competitive programming contests in my free time!
 
 ### 🔗 Find me on:
-- **LeetCode**: [leetcode.com/AbdullahAshraf](https://leetcode.com/u/simpleAsSword/))
+- **LeetCode**: [leetcode.com/AbdullahAshraf](https://leetcode.com/u/simpleAsSword/)
 
 ---
-
-<img src="https://github.com/AbdullahAshrafMaher/AbdullahAshrafMaher/blob/main/footer.png" alt="Footer Image" width="100%">
