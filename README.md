@@ -1,5 +1,3 @@
-<img src="https://github.com/AbdullahAshrafMaher/AbdullahAshrafMaher/blob/main/banner.png" alt="Banner Image" width="100%">
-
 ## Hi there, I'm Abdallah Ashraf! 👋
 
 🎓 **Honor Graduate** in Computer Science and Artificial Intelligence with a GPA of 3.35.  
