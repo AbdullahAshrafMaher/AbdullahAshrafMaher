@@ -37,6 +37,11 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD700?style=for-the-badge&logo=hugging-face&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-222222?style=for-the-badge&logo=polars&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-2C5F72?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-1F77B4?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -47,6 +52,10 @@
 
 ### ⚡ Fun fact:
 I love solving complex problems and often participate in competitive programming contests in my free time!
+
+### 🔗 Find me on:
+- **LeetCode**: [leetcode.com/AbdullahAshraf](https://leetcode.com/AbdullahAshraf)
+- **LinkedIn**: [linkedin.com/in/abdullah-maher-ai](https://www.linkedin.com/in/abdullah-maher-ai/)
 
 ---
 
