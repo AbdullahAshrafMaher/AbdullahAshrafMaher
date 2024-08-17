@@ -43,16 +43,12 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahAshrafMaher&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAshrafMaher&layout=compact&theme=radical)
 
 ### ⚡ Fun fact:
 I love solving complex problems and often participate in competitive programming contests in my free time!
 
 ### 🔗 Find me on:
-- **LeetCode**: [leetcode.com/AbdullahAshraf](https://leetcode.com/AbdullahAshraf)
-- **LinkedIn**: [linkedin.com/in/abdullah-maher-ai](https://www.linkedin.com/in/abdullah-maher-ai/)
+- **LeetCode**: [leetcode.com/AbdullahAshraf](https://leetcode.com/u/simpleAsSword/))
 
 ---
 
