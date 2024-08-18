@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=abad&weight=600&size=22&pause=1000&color=060D38&repeat=false&random=true&width=435&lines=Hi+there%2C+I'm+Abdallah+Ashraf!+%F0%9F%91%8B)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=abad&weight=600&size=22&pause=1000&color=060D38&repeat=false&random=true&width=435&lines=Hi+there%2C+I'm+Abdallah+Ashraf!+%F0%9F%91%8B" alt="Typing SVG" /></a>
+
 🎓 **Honor Graduate** in Computer Science and Artificial Intelligence with a GPA of 3.35.  
 💼 **Machine Learning Engineer** with hands-on experience in developing and deploying deep learning models.  
 🌍 **Open Source Enthusiast** passionate about contributing to impactful projects.
