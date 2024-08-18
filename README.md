@@ -1,4 +1,4 @@
-## Hi there, I'm Abdallah Ashraf! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Abdallah+Ashraf!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 🎓 **Honor Graduate** in Computer Science and Artificial Intelligence with a GPA of 3.35.  
 💼 **Machine Learning Engineer** with hands-on experience in developing and deploying deep learning models.  
